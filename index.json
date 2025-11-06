@@ -58,5 +58,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: Susto Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
+    "apk": "tachiyomi-pt.sustoscan-v1.4.61.apk",
+    "lang": "pt-BR",
+    "code": 61,
+    "version": "1.4.61",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Susto Toons",
+        "lang": "pt-BR",
+        "id": "6963507464339951166",
+        "baseUrl": "https://www.sussytoons.wtf",
+        "versionId": 2
+      }
+    ]
   }
 ]
