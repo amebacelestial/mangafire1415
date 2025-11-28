@@ -112,5 +112,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: Manga Livre",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.48.apk",
+    "lang": "pt-BR",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Livre",
+        "lang": "pt-BR",
+        "id": "2834885536325274328",
+        "baseUrl": "https://mangalivre.tv",
+        "versionId": 1
+      }
+    ]
   }
 ]
