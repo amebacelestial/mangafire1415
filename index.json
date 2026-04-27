@@ -1,5 +1,5 @@
 [
- {
+  {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
     "apk": "tachiyomi-all.mangafire-v1.4.15.apk",
@@ -127,6 +127,24 @@
         "lang": "pt-BR",
         "id": "2834885536325274328",
         "baseUrl": "https://mangalivre.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToonLivre",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.toonlivre",
+    "apk": "tachiyomi-pt.toonlivre-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ToonLivre",
+        "lang": "pt-BR",
+        "id": "8896547305998606672",
+        "baseUrl": "https://toonlivre.net",
         "versionId": 1
       }
     ]
