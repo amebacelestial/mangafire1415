@@ -134,10 +134,10 @@
     {
         "name":  "Tachiyomi: ToonLivre",
         "pkg":  "eu.kanade.tachiyomi.extension.pt.toonlivre",
-        "apk":  "tachiyomi-pt.toonlivre-v1.4.27.apk",
+        "apk":  "tachiyomi-pt.toonlivre-v1.4.28.apk",
         "lang":  "pt-BR",
-        "code":  27,
-        "version":  "1.4.27",
+        "code":  28,
+        "version":  "1.4.28",
         "nsfw":  0,
         "sources":  [
                         {
