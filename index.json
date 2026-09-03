@@ -80,10 +80,10 @@
  {
   "name": "Tachiyomi: Maid Scan",
   "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-  "apk": "tachiyomi-pt.maidscan-v1.4.55.apk",
+  "apk": "tachiyomi-pt.maidscan-v1.4.54.apk",
   "lang": "pt-BR",
-  "code": 55,
-  "version": "1.4.55",
+  "code": 54,
+  "version": "1.4.54",
   "nsfw": 1,
   "sources": [
    {
