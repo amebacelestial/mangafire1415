@@ -80,10 +80,10 @@
  {
   "name": "Tachiyomi: Maid Scan",
   "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-  "apk": "tachiyomi-pt.maidscan-v1.4.52.apk",
+  "apk": "tachiyomi-pt.maidscan-v1.4.53.apk",
   "lang": "pt-BR",
-  "code": 52,
-  "version": "1.4.52",
+  "code": 53,
+  "version": "1.4.53",
   "nsfw": 1,
   "sources": [
    {
@@ -134,10 +134,10 @@
  {
   "name": "Tachiyomi: ToonLivre",
   "pkg": "eu.kanade.tachiyomi.extension.pt.toonlivre",
-  "apk": "tachiyomi-pt.toonlivre-v1.4.52.apk",
+  "apk": "tachiyomi-pt.toonlivre-v1.4.53.apk",
   "lang": "pt-BR",
-  "code": 52,
-  "version": "1.4.52",
+  "code": 53,
+  "version": "1.4.53",
   "nsfw": 0,
   "sources": [
    {
